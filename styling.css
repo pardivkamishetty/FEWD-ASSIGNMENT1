@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: azure;
+}
+
+.nav-link a{
+    color:azure;
+    font-family: sans-serif;
+    text-decoration: none;
+
+}
+
+button{
+    color: azure;
+    background-color:blue;
+    
+}
